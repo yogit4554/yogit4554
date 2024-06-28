@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development Engineering
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on projects related to web development and software engineering
-- 📫 How to reach me: yteewari@gmail.com 
+- 📫 How to reach me: https://yteewari.netlify.app/
 - 😄 Pronouns: He/Him
 
 ### Connect with me
