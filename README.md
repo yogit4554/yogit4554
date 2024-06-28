@@ -9,7 +9,6 @@
 ### Connect with me
 <p align="left">
     <a href="https://leetcode.com/u/yteewari/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
-    <a href="mailto:yteewari@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="40" height="40"/> </a>
     <a href="https://www.linkedin.com/in/yogendra-teewari/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 ### Languages and Tools:
